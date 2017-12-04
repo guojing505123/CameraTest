@@ -21,7 +21,7 @@ import android.widget.ImageView;
 public class MainActivity extends Activity {
 
     static final int REQUEST_IMAGE_CAPTURE = 1;
-    ImageView photo;
+    ImageView photo;  
 
     Drawable pt;
     Bitmap btBitmap;
